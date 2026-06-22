@@ -1,10 +1,10 @@
-# \# Fabric \\\& Power BI Days Paris 2026
+# Fabric & Power BI Days Paris 2026
 
 Bienvenue dans le dépôt officiel des supports de présentation du Fabric \\\& Power BI Days Paris 2026.
 
 
 
-## \## Licence
+##  Licence
 
 L'ensemble des supports est publié sous licence **\*\*Creative Commons BY-NC-ND 4.0\*\*.**
 
@@ -22,11 +22,11 @@ Plus d'informations : https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 
 
-\---
+---
 
 ## 
 
-## \## Sessions
+##  Sessions
 
 | Speaker | Track | Support
 
