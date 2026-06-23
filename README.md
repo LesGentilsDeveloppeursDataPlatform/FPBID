@@ -22,6 +22,9 @@ Plus d'informations : https://creativecommons.org/licenses/by-nc-nd/4.0/
 | Axel Samson & Pierrick Neyme | Fabric | `F&PBI Days 2026 _Automatiser vos déploiements Fabric avec fabric-cicd _Axel Samson et Pierrick Neyme.pdf` |
 | Carole Cazenavette & Tom Vinant | Data | `F&PBI Days 2026 _Quand Power BI passe à l'échelle transformer un rapport en plateforme BI _Carole Cazenavette et Tom Vinant.pdf` |
 | Jérôme Floury | Fabric | `F&PBI Days 2026 _ Fabric à tous les étages du service Data de la CMA Bretagne _Jerome Floury.pdf` |
+| Jérôme Floury | Fabric | `F&PBI Days 2026 _ Fabric à tous les étages du service Data de la CMA Bretagne _Jerome Floury.pdf` |
+| Romain Casteres et Manel Omani | Fabric | `F&PBI Days 2026 _FinOps pour Microsoft Fabric _Romain Casteres et Manel Omani.pdf` |
+| Romain Casteres et Emilie Beau | Fabric | `F&PBI Days 2026 _ Administration et Monitoring _Romain Casteres et Emilie Beau.pdf` |
 
 ---
 
